@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: azure-203-iac-demo
