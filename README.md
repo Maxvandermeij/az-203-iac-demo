@@ -41,4 +41,4 @@ While it offers many options, I am considering Azure Stack out of scope for this
 The project is pretty straight forward. 
 The only thing you'd need to do is fill in the AzureMetaData class with the correct information.
 The information needed is found on the Azure Portal, after registering and authorizing an application in your Azure Active Directory.
-Make sure that the application has access to the required resources, namely the Azure ARM API.
+Make sure that the application has access to the required resources, namely the Azure ARM API. For help check ths link: https://docs.microsoft.com/en-us/azure/active-directory/develop/howto-create-service-principal-portal
